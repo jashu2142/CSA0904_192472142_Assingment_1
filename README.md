@@ -3,8 +3,8 @@
 ## Smart Parking System
 
 ### Student Details
-- **Name:** PURUSHOTHAMAN.V
-- **Register Number:** 192511064
+- **Name:** C.Sai Jashwanth Reddy
+- **Register Number:** 192472142
 - **Department:** Computer Science and Engineering
 
 ### Development Environment
