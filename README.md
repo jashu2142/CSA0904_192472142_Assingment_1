@@ -81,5 +81,5 @@ Screenshots of the source code and program outputs are maintained in their respe
 This assignment provided practical experience in Java programming, object-oriented concepts, and developing a Smart Parking System using Visual Studio Code.
 
 ---
-**Submitted by:** PURUSHOTHAMAN.V  
-**Register Number:** 192511064
+**Submitted by:** C.Sai jashwanth Reddy 
+**Register Number:** 192472142
